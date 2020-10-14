@@ -4,5 +4,5 @@ Info/Ideas https://docs.google.com/document/d/1aCruQvra4gdVxM3bSFUnUqEJpPABJFGzB
 https://docs.google.com/document/d/1mQFLe8QfD4V2-bGJsc2HVp5rdeQs2vawUQeMnql7JPE/edit?usp=sharing
 
 
-View composer-new.js for the most up to date psuedo-code. I am creating a new version.
+View composer-new.js for the most up to date pseudo-code. I am creating a new version.
 
